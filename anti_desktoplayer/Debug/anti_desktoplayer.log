@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/12/25 14:35:58。
+     1>项目“G:\RE\anti_DesktopLayer\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\anti_desktoplayer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt anti_desktoplayer.cpp
+         anti_desktoplayer.cpp
+     1>g:\re\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer.cpp(112): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\re\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer.cpp(273): warning C4018: “>”: 有符号/无符号不匹配
+     1>g:\re\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer.cpp(353): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\re\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer.cpp(363): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\re\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer.cpp(376): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\RE\anti_DesktopLayer\anti_desktoplayer\Debug\anti_desktoplayer.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\RE\anti_DesktopLayer\anti_desktoplayer\Debug\anti_desktoplayer.pdb" /SUBSYSTEM:CONSOLE,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\RE\anti_DesktopLayer\anti_desktoplayer\Debug\anti_desktoplayer.lib" /MACHINE:X86 Debug\anti_desktoplayer.obj
+         Debug\stdafx.obj
+         anti_desktoplayer.vcxproj -> G:\RE\anti_DesktopLayer\anti_desktoplayer\Debug\anti_desktoplayer.exe
+     1>已完成生成项目“G:\RE\anti_DesktopLayer\anti_desktoplayer\anti_desktoplayer\anti_desktoplayer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.39
